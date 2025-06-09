@@ -1,0 +1,19 @@
+# Model files
+*.h5
+*.keras
+
+# IntelliJ
+.idea/
+*.iml
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Offline datasets
+datasets/
+
+# Test data
+test_data/
+test_images/
